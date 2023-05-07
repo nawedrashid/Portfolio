@@ -131,7 +131,7 @@ const Technologies = () => {
   return (
     <div
       name="Technologies"
-      className="bg-gradient-to-b from-grad2 to-grad1 w-full h-full sm:h-full pt-20"
+      className="bg-gradient-to-b from-grad2 to-grad1 w-full h-full pt-20"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-screen h-full text-white">
         <div>
